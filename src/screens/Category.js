@@ -3,14 +3,14 @@ import React from 'react';
 
 import Layout from '../components/Layout';
 
-const Order = () => {
+const Category = () => {
   return (
     <Layout>
-      <Text>Order</Text>
+      <Text>Category</Text>
     </Layout>
   );
 };
 
-export default Order;
+export default Category;
 
 const styles = StyleSheet.create({});
